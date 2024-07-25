@@ -1,0 +1,6 @@
+input/*
+data/
+__pycache__
+.env
+test*
+store/
